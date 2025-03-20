@@ -1,12 +1,7 @@
-# 
-Employee engagement and satisfaction relation with employer investment in training
-
-
-
 # Hi, I'm Moksh Verma! 👋
 
 
-# ML Project : "Analytical Study of relation between Employee Engagement and Satisfaction"
+# ML Project : "Analytical Study of relationship between Employee Engagement and Satisfaction"
 
 ### ~ Employee engagement and satisfaction relation with employer investment in training.
 
