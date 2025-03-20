@@ -16,7 +16,7 @@ This type of Analytical Study and Summary is highly used in **Human Resources In
 
 # Python Analysis Code File
 
-[loan_grant_prediction_model.ipynb](https://github.com/mokshverma-dev/loan-approval-prediction-model/blob/main/loan_grant_prediction_model.ipynb)
+[analytical study code file.ipynb](https://github.com/mokshverma-dev/Analytical-study-of-Relation-between-Employee-Engagement-and-Satisfaction/blob/main/analytical%20study%20code%20file.ipynb)
 
 # Dataset used for Analytical Process
 
