@@ -20,9 +20,8 @@ This type of Analytical Study and Summary is highly used in **Human Resources In
 
 # Dataset used for Analytical Process
 
-[loan_grant_training_data.csv](https://github.com/mokshverma-dev/loan-approval-prediction-model/blob/main/loan_grant_training_data.csv)
-[loan_grant_training_data.csv](https://github.com/mokshverma-dev/loan-approval-prediction-model/blob/main/loan_grant_training_data.csv)
-
+[employee_engagement_survey_data.csv](https://github.com/mokshverma-dev/Analytical-study-of-Relation-between-Employee-Engagement-and-Satisfaction/blob/main/employee_engagement_survey_data.csv)
+[training_and_development_data.csv](https://github.com/mokshverma-dev/Analytical-study-of-Relation-between-Employee-Engagement-and-Satisfaction/blob/main/training_and_development_data.csv)
 
 ## Tech Stack
 
