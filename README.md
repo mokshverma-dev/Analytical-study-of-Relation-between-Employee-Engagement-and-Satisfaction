@@ -14,6 +14,19 @@ Purpose of this Project is to understand the correlation between the factors(Emp
 
 This type of Analytical Study and Summary is highly used in **Human Resources Industry**.
 
+
+## Graphical Representation of Analysis
+
+Scatterplot Showing Relation between Training Program and Employee Engagement
+![scatterplot showing relation between training program and employee engagement](https://github.com/mokshverma-dev/Analytical-study-of-Relation-between-Employee-Engagement-and-Satisfaction/blob/main/scatterplot%20showing%20relation%20between%20training%20program%20and%20employee%20engagement.jpeg)
+
+Scatterplot showing Relationship between Investment in Training Program and Employee Work Engagement
+![scatterplot showing relationship between investment in training program and employee work engagement](https://github.com/mokshverma-dev/Analytical-study-of-Relation-between-Employee-Engagement-and-Satisfaction/blob/main/scatterplot%20showing%20relationship%20between%20investment%20in%20training%20program%20and%20employee%20work%20engagement.jpeg)
+
+3d Scatterplot showing Relationship between Training Program Employee Engagement and Employee Satisfaction
+![3d scatterplot showing relationship between training program employee engagement and employee satisfaction](https://github.com/mokshverma-dev/Analytical-study-of-Relation-between-Employee-Engagement-and-Satisfaction/blob/main/3d%20scatterplot%20showing%20relationship%20between%20training%20program%20employee%20engagement%20and%20employee%20satisfaction.jpeg)
+
+
 # Python Analysis Code File
 
 [analytical study code file.ipynb](https://github.com/mokshverma-dev/Analytical-study-of-Relation-between-Employee-Engagement-and-Satisfaction/blob/main/analytical%20study%20code%20file.ipynb)
